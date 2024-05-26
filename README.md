@@ -1,4 +1,4 @@
-![logo](https://github.com/TharunPerera/TharunPerera/blob/main/Yellow%20Geometric%20Modern%20Professional%20Manager%20LinkedIn%20Banner.png)
+![logo](https://github.com/TharunPerera/TharunPerera/blob/main/Yellow%20Geometric%20Modern%20Professional%20Manager%20LinkedIn%20Banner%20(3).png)
 <img align="left" src="https://github.com/TharunPerera/TharunPerera/raw/main/Animation%20-%201716660491342.gif" alt="animated icon" width="21%" style="display:inline;">
 <img align="right" src="https://github.com/TharunPerera/TharunPerera/raw/main/Animation%20-%201716660491342.gif" alt="animated icon" width="21%" style="display:inline;">
 
