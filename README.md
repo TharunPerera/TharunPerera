@@ -48,9 +48,9 @@
 <br><br>
 
 
-- 🌱 I’m currently learning **Image Processing**
+- 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **Java, Python, C++ and JavaScript**
+- 💬 Ask me about **Java, and JavaScript**
 
 - 📫 How to reach me **tharun20050107@gmail.com**
 
